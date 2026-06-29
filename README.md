@@ -1,7 +1,6 @@
 # energy-data-practice
 
 This repository records my preparation for the MSc Energy Systems and Data Analytics programme at UCL.
-
 ## Focus Areas
 
 - Python for energy data analysis
